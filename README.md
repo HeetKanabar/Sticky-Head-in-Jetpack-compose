@@ -1,0 +1,1 @@
+This is method to make Sticky head in jetpack compose UI. reference:- https://developer.android.com/jetpack/compose/lists![lists-scrolling](https://user-images.githubusercontent.com/83835078/218569752-324e7545-b219-479f-b82f-a1f686ee900b.gif)
